@@ -12,8 +12,6 @@ Material-UI - A popular React UI framework that implements Google's Material Des
 
 React Router DOM - A library for routing in React applications.
 
-JSON Placeholder - A fake online REST API for testing and prototyping.
-
 npm - A package manager for the JavaScript programming language.
 
 This tech stack allows for the creation of a dynamic and responsive single-page application with a user-friendly interface, using the latest web development tools and techniques.
